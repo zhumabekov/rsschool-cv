@@ -8,8 +8,9 @@
 * CSS
 * JS
 * VUE
+* Webpack
 ## Education
 * Bachelor degree: _Eurasian National University, Information Systems_
-* Master's degree: _Esil University, Information Systems_
+* Master's degree: _Esil University, *Information Systems*_
 ## Language
 * English: B1
